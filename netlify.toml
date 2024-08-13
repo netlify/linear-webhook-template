@@ -1,0 +1,2 @@
+[template.environment]
+  WEBHOOK_SECRET = "webhook secret is in linear dev settings"
